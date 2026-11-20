@@ -25,7 +25,7 @@ Get an API key: [everyinfra.com/en/docs](https://everyinfra.com/en/docs?utm_sour
 | [`tiktok/hashtag`](https://everyinfra.com/en/tiktok-api/hashtag?utm_source=github&utm_medium=example_repo&utm_campaign=tiktok-trends-api) | $0.56 | 10 in our test |
 
 - You pay per call, not per month. Failed calls and empty results are not charged.
-- New accounts can claim $1 of trial credit: create an account, star [everyinfra-agent-plugins](https://github.com/everyinfra/everyinfra-agent-plugins) and [seo-skills](https://github.com/everyinfra/seo-skills), then claim it in the console. It is valid for 24 hours and needs no card. See [pricing](https://everyinfra.com/en/pricing?utm_source=github&utm_medium=example_repo&utm_campaign=tiktok-trends-api).
+- New accounts get $1 of trial credit. It is valid for 24 hours and needs no card. See [pricing](https://everyinfra.com/en/pricing?utm_source=github&utm_medium=example_repo&utm_campaign=tiktok-trends-api) for how to claim it.
 
 ## What you get
 
